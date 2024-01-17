@@ -1,0 +1,73 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0%;
+    padding: 0%;
+    background-color: #ffe4c4;
+}
+
+header{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #f5deb3;
+    word-spacing: 1%;
+    text-align: center;
+    padding: 1rem 0;
+}
+
+section{
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #ffebcd;
+    border-radius: 8px; ;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h2{
+    font-family: 'Times New Roman', Times, serif;
+    color: #ffe4c4;
+}
+
+p {
+    line-height: 1.9;
+    color: #b998b9;
+}
+
+.destination {
+   margin-bottom: 23px;
+}
+
+.destination img {
+    width: fit-content;
+    border-radius: 8px;
+    margin-bottom: 10px;
+}
+
+.destination img{
+    width: fit-content;
+    border-radius: 8px;
+    margin-bottom: 10px;
+}
+
+footer{
+    background-color: #f5f5dc;
+    color: #f5deb3;
+    text-align: center;
+    padding: 1em 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+article{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #f5deb3;
+    margin: inherit;
+    padding: 10cm;
+    position: relative;
+    bottom: 2;
+    width: fit-content;
+}
+.p{
+    word-spacing: 1cm;
+    color: #f5deb3;
+}
